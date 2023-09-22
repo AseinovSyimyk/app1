@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "2023-09-21 00.42.50.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
